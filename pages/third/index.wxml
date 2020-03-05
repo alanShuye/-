@@ -1,0 +1,6 @@
+<!--pages/third/index.wxml-->
+<view class="body">
+  <image class="bg" src="../../img/bg.png" mode="widthFix">
+  </image>
+  <button class="upload" type="primary" bindtap="onUpload">点击此处上传一张大狗的图片</button>
+</view>
